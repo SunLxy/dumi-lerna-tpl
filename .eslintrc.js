@@ -11,5 +11,6 @@ module.exports = {
     'import/no-unresolved': 0,
     '@typescript-eslint/consistent-type-imports': 'off',
     '@typescript-eslint/consistent-type-definitions': 'off',
+    'no-empty-interface': false,
   },
 };
